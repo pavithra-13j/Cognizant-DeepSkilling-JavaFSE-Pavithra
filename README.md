@@ -3,14 +3,14 @@
 ## 👩‍💻 Candidate Details
 
 - **Name:** CHIKKALA PAVITHRA
-- **Email-ID:** Pavithrach2021@gmail.com
+- **Email:** Pavithrach2021@gmail.com
 - **Track:** Java Full Stack Engineering (Java FSE)
 
 ---
 
 ## 📚 Project Description
 
-This repository contains my solutions for the **Cognizant Digital Nurture 5.0 – Java Full Stack Engineering (Java FSE)** Deep Skilling Program. It includes mandatory hands-on exercises covering Design Patterns, Data Structures & Algorithms, PL/SQL, Unit Testing, Logging Frameworks, and Spring Framework.
+This repository contains my solutions for the **Cognizant Digital Nurture 5.0 – Java Full Stack Engineering (Java FSE)** Deep Skilling Program. It includes mandatory hands-on exercises covering Design Patterns, Data Structures & Algorithms, PL/SQL, Test Driven Development, Logging Frameworks, Spring Framework, and Spring Data JPA with Hibernate.
 
 ---
 
@@ -53,13 +53,24 @@ This repository contains my solutions for the **Cognizant Digital Nurture 5.0 �
 
 ---
 
+### 🗃️ Module 6 – Spring Data JPA with Hibernate
+
+- Mandatory Hands-on 1: Retrieve All Countries using Spring Data JPA
+- Mandatory Hands-on 4: Difference between JPA, Hibernate and Spring Data JPA
+
+---
+
 ## 🛠️ Technologies Used
 
-- Java 8
+- Java 21
+- Spring Boot
 - Spring Core
+- Spring Data JPA
+- Hibernate
 - Spring AOP
 - Spring Web MVC
 - Maven
+- MySQL
 - Oracle SQL & PL/SQL
 - Eclipse IDE
 - JUnit
@@ -75,8 +86,9 @@ This repository contains my solutions for the **Cognizant Digital Nurture 5.0 �
 Module-1-DesignPatterns/
 Module-2-DSA/
 Module-3-PLSQL/
-Module-4-Test Driven Development & Logging Framework/
-Module-5-Spring Core & Maven/
+Module-4-Test-Driven-Development-and-Logging-Framework/
+Module-5-Spring-Core-and-Maven/
+Module-6-Spring-Data-JPA-with-Hibernate/
 README.md
 ```
 
@@ -89,12 +101,15 @@ README.md
 - Solving problems using Data Structures and Algorithms
 - Writing PL/SQL programs using Control Structures and Stored Procedures
 - Developing and executing Unit Tests using JUnit
-- Mocking dependencies with Mockito
+- Mocking dependencies using Mockito
 - Implementing logging using SLF4J
 - Building applications using Spring Framework
-- Managing dependencies with Maven
+- Performing database operations using Spring Data JPA and Hibernate
+- Managing project dependencies using Maven
 - Version control using Git and GitHub
 
 ---
 
-**Author:** **CHIKKALA PAVITHRA**
+## 📌 Author
+
+**CHIKKALA PAVITHRA**

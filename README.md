@@ -148,4 +148,3 @@ Execution screenshots for all completed hands-on exercises are available in the 
 
 **CHIKKALA PAVITHRA**
 
-⭐ If you found this repository helpful, feel free to star it.

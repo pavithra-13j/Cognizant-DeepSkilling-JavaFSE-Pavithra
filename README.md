@@ -63,18 +63,6 @@ This repository contains my solutions for the **Cognizant Digital Nurture 5.0 �
 - Generate JWT Token
 - Secure REST APIs using JWT
 
-### ☁️ Module 8 – Microservices
-- Account Microservice
-- Loan Microservice
-
-### 🔀 Module 9 – Git & GitHub
-- Git Installation & Configuration
-- Git Repository Initialization
-- Git Ignore
-- Branching & Merging
-- Merge Conflict Resolution
-- Push Local Repository to GitHub
-
 ---
 
 ## 🛠️ Technologies Used
@@ -111,8 +99,6 @@ Module-4-Test-Driven-Development-and-Logging-Framework/
 Module-5-Spring-Core-and-Maven/
 Module-6-Spring-Data-JPA-with-Hibernate/
 Module-7-Spring-REST-using-Spring-Boot-3/
-Module-8-Microservices-with-Spring-Boot-3-and-Spring-Cloud/
-Module-9-GIT/
 README.md
 ```
 
@@ -132,9 +118,6 @@ README.md
 - Implementing Spring Security
 - Generating and Validating JWT Tokens
 - Working with Spring Data JPA & Hibernate
-- Building Spring Boot Microservices
-- Managing Dependencies using Maven
-- Using Git & GitHub for Version Control
 
 ---
 

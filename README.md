@@ -10,7 +10,7 @@
 
 ## 📚 Project Description
 
-This repository contains my solutions for the **Cognizant Digital Nurture 5.0 – Java Full Stack Engineering (Java FSE)** Deep Skilling Program. It includes mandatory hands-on exercises covering Design Patterns, Data Structures & Algorithms, PL/SQL, Test Driven Development, Spring Framework, Spring Data JPA with Hibernate, RESTful Web Services, Spring Security, JWT Authentication, Microservices, Git, and GitHub.
+This repository contains my solutions for the **Cognizant Digital Nurture 5.0 – Java Full Stack Engineering (Java FSE)** Deep Skilling Program. It includes mandatory hands-on exercises covering Design Patterns, Data Structures & Algorithms, PL/SQL, Test Driven Development, Spring Framework, Spring Data JPA with Hibernate, RESTful Web Services, Spring Security, JWT Authentication, Microservices, Spring Cloud, API Gateway, Git, and GitHub.
 
 ---
 
@@ -63,6 +63,10 @@ This repository contains my solutions for the **Cognizant Digital Nurture 5.0 �
 - Generate JWT Token
 - Secure REST APIs using JWT
 
+### ☁️ Module 8 – Microservices & Spring Cloud
+- Account Microservice
+- Loan Microservice
+
 ---
 
 ## 🛠️ Technologies Used
@@ -77,6 +81,8 @@ This repository contains my solutions for the **Cognizant Digital Nurture 5.0 �
 - Spring Data JPA
 - Hibernate
 - Spring Cloud
+- Eureka Discovery Server
+- Spring Cloud API Gateway
 - Maven
 - MySQL
 - Oracle SQL & PL/SQL
@@ -99,6 +105,7 @@ Module-4-Test-Driven-Development-and-Logging-Framework/
 Module-5-Spring-Core-and-Maven/
 Module-6-Spring-Data-JPA-with-Hibernate/
 Module-7-Spring-REST-using-Spring-Boot-3/
+Module-8-Microservices-with-Spring-Boot-3-and-Spring-Cloud/
 README.md
 ```
 
@@ -110,14 +117,15 @@ README.md
 - Applying Design Patterns
 - Solving problems using Data Structures & Algorithms
 - Writing PL/SQL Programs
-- Unit Testing with JUnit
-- Mocking using Mockito
-- Logging using SLF4J
+- Unit Testing with JUnit & Mockito
 - Building Applications using Spring Framework
 - Developing RESTful Web Services
-- Implementing Spring Security
-- Generating and Validating JWT Tokens
+- Implementing Spring Security & JWT Authentication
 - Working with Spring Data JPA & Hibernate
+- Developing Microservices using Spring Boot
+- Registering Services using Eureka Discovery Server
+- Routing Requests using Spring Cloud API Gateway
+- Managing Source Code using Git & GitHub
 
 ---
 
@@ -125,9 +133,16 @@ README.md
 
 Execution screenshots for all completed hands-on exercises are available in the respective module **Screenshots** folders.
 
+Each module includes:
+- Source Code
+- Execution Output
+- Console Output
+- Browser/Postman Response
+- Project Structure
+
 ---
 
 ## 📌 Author
 
-**CHIKKALA PAVITHRA**
+**Chikkala Pavithra**
 
